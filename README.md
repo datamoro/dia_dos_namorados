@@ -2,10 +2,11 @@
 
 Este é um programa simples criado em Python para comemorar o Dia dos Namorados. Ele desenha um coração usando a biblioteca Turtle e exibe uma mensagem personalizada para o seu namorado(a).
 
-##Requisitos
+### Requisitos:
 Python 3.x
 Biblioteca Turtle
-##Como usar
+
+### Como usar:
 Clone o repositório ou copie o código para o seu ambiente de desenvolvimento.
 
 Certifique-se de ter o Python 3.x instalado no seu sistema.
